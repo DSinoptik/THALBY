@@ -1,0 +1,13 @@
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color: #1C1B1B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    margin-left: 28px;
+}
+
+.bg-light {
+    background-color: #ffffff !important;
+}
