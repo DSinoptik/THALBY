@@ -10,7 +10,8 @@ body {
 
 .header_container {
     max-width: 1440px;
-    padding: 15px 185px 15px 185px;
+    margin: auto;
+    padding: 0px 188px 0px 188px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,6 +27,12 @@ h1 {
     line-height: normal;
 }
 
+#logotype {
+    position: absolute;
+    left: calc(50% - 40px);
+}
+
+/* header icons var #1 */
 .header_icons {
     display: flex;
     list-style: none;
@@ -44,8 +51,3 @@ h1 {
     margin-right: 7px;
 }
 
-#logotype {
-    position: absolute;
-    left: 50%;
-    right: 50%;
-}

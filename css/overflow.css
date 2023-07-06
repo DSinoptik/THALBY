@@ -5,9 +5,15 @@
     font-style: normal;
     font-weight: 700;
     line-height: 26.4px;
-    margin-left: 28px;
 }
 
 .bg-light {
     background-color: #ffffff !important;
 }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 28px;
+}
+
