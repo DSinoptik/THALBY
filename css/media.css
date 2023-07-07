@@ -1,0 +1,56 @@
+@media only screen and (max-width: 991px) {
+
+.header_container {
+  max-width: 991px;
+  margin: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  padding-top: 70px;
+  /* position: relative; */
+}
+
+#logotype {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 40px);
+}
+
+.navbar {
+  text-align: center;
+  margin: auto
+}
+
+.navbar-toggler {
+  margin: auto;
+ }
+
+.navbar-nav {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.collapse.show {
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  margin-right: 0;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* @media only screen and (max-width: 428px) {
+
+} */
