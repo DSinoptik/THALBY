@@ -8,6 +8,10 @@
     margin-right: 28px;
 }
 
+.navbar {
+    padding-left: 0;
+}
+
 .bg-light {
     background-color: #ffffff !important;
 }
