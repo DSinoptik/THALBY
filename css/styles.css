@@ -86,7 +86,6 @@ h1 {
     padding-bottom: 26px;
 }
 
-
 .shopnow_btn {
     text-align: center;
     display: inline-block;
@@ -97,4 +96,11 @@ h1 {
     border: 1px solid #000;
     background: #000;
     padding: 7px 23px 9px 23px;
+}
+
+.section1_img {
+    max-width: 591px;
+    width: 100%;
+    display: block;
+    background-color: #F0EFEB;
 }
