@@ -9,9 +9,8 @@ body {
 }
 
 .header_container {
-    max-width: 1440px;
+    max-width: 1065px;
     margin: auto;
-    padding: 0px 188px 0px 188px;
     display: flex;
     justify-content: space-between;
     align-items: center;
