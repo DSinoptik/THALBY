@@ -379,9 +379,22 @@ h1 {
   line-height: normal;
 }
 
+.color_dots {
+    max-width: 1065px;
+    display: flex;
+    flex-direction: column;
+}
+
 .color_dots_row1 {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 111px;
+}
+
+.color_dots_row2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 111px;
 }
 
 .sphere {
@@ -400,8 +413,7 @@ h1 {
   margin-bottom: 26px;
 }
 
-.dot1_box,
-.dot2_box {
+.dot1_box {
   max-width: 339px;
   padding-left: 96px;
   padding-right: 96px;
@@ -419,6 +431,12 @@ h1 {
   padding-right: 63px;
 }
 
+.dot4_box {
+    max-width: 339px;
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+
 .dot2 {
   background-color: #33d3bc;
   margin-bottom: 26px;
@@ -428,3 +446,9 @@ h1 {
   background-color: #18a5c6;
   margin-bottom: 26px;
 }
+
+.dot4 {
+    background-color: #D38F62;
+    margin-bottom: 26px;
+  }
+  
