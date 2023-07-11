@@ -380,9 +380,9 @@ h1 {
 }
 
 .color_dots {
-    max-width: 1065px;
-    display: flex;
-    flex-direction: column;
+  max-width: 1065px;
+  display: flex;
+  flex-direction: column;
 }
 
 .color_dots_row1 {
@@ -392,9 +392,9 @@ h1 {
 }
 
 .color_dots_row2 {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 111px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 111px;
 }
 
 .sphere {
@@ -432,10 +432,22 @@ h1 {
 }
 
 .dot4_box {
-    max-width: 339px;
-    padding-left: 75px;
-    padding-right: 75px;
-  }
+  max-width: 339px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.dot5_box {
+  max-width: 339px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.dot6_box {
+  max-width: 339px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
 
 .dot2 {
   background-color: #33d3bc;
@@ -448,7 +460,16 @@ h1 {
 }
 
 .dot4 {
-    background-color: #D38F62;
-    margin-bottom: 26px;
-  }
-  
+  background-color: #d38f62;
+  margin-bottom: 26px;
+}
+
+.dot5 {
+  background-color: #f94c43;
+  margin-bottom: 26px;
+}
+
+.dot6 {
+  background-color: #D399FF;
+  margin-bottom: 26px;
+}
