@@ -31,6 +31,11 @@ h1 {
   left: calc(50% - 40px);
 }
 
+#logotype img {
+  width: 80px;
+  height: 25px;
+}
+
 /* header icons var #1 */
 .header_icons {
   display: flex;
