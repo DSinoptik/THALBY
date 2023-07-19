@@ -1,0 +1,48 @@
+$body-bg: #ffffff;
+$cont-w: 1064px;
+$main-font: "Roboto", sans-serif;
+$grey-bg: #f0efeb;
+
+// HEADER
+.header_container {
+  max-width: $cont-w;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  h1 {
+    font-family: $main-font;
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+
+#logotype {
+  position: absolute;
+  left: calc(50% - 40px);
+  & img {
+    width: 80px;
+    height: 25px;
+  }
+}
+
+.header_icons {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  & ul {
+    list-style: none;
+  }
+}
+
+#i_instagram {
+  margin-right: 15px;
+}
+
+#i_search {
+  margin-right: 7px;
+}

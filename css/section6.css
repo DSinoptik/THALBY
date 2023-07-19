@@ -1,0 +1,127 @@
+.section6 {
+  background: rgba(255, 255, 255, 0.3);
+  margin: auto;
+}
+
+.section6_container {
+  margin: auto;
+  max-width: 1064px;
+  padding-top: 190px;
+  text-align: center;
+}
+.section6_container h4 {
+  color: #000;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  max-width: 450px;
+  margin: auto;
+  margin-bottom: 69px;
+}
+.section6_container h5 {
+  color: #000;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.color_dots {
+  max-width: 1064px;
+  display: flex;
+  flex-direction: column;
+}
+
+.color_dots_row1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 111px;
+}
+
+.color_dots_row2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 111px;
+}
+
+.sphere {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 500%;
+  position: relative;
+  display: inline-block;
+}
+
+.dot1 {
+  background-color: #21f7ec;
+  margin-bottom: 26px;
+}
+
+.dot1_box {
+  max-width: 339px;
+  padding-left: 96px;
+  padding-right: 96px;
+}
+
+.dot2_box {
+  max-width: 339px;
+  padding-left: 85px;
+  padding-right: 85px;
+}
+
+.dot3_box {
+  max-width: 339px;
+  padding-left: 63px;
+  padding-right: 63px;
+}
+
+.dot4_box {
+  max-width: 339px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.dot5_box {
+  max-width: 339px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.dot6_box {
+  max-width: 339px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.dot2 {
+  background-color: #33d3bc;
+  margin-bottom: 26px;
+}
+
+.dot3 {
+  background-color: #18a5c6;
+  margin-bottom: 26px;
+}
+
+.dot4 {
+  background-color: #d38f62;
+  margin-bottom: 26px;
+}
+
+.dot5 {
+  background-color: #f94c43;
+  margin-bottom: 26px;
+}
+
+.dot6 {
+  background-color: #d399ff;
+  margin-bottom: 26px;
+}/*# sourceMappingURL=section6.css.map */

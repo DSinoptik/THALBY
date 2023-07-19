@@ -1,0 +1,48 @@
+$body-bg: #ffffff;
+$cont-w: 1064px;
+$main-font: "Roboto", sans-serif;
+$grey-bg: #f0efeb;
+
+// SECTION 5
+.section5 {
+    background: rgba(204, 204, 204, 0.3);
+    margin: auto;
+  }
+  
+  .section5_container {
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    max-width: $cont-w;
+    padding-top: 76px;
+    padding-bottom: 51px;
+    img {
+      max-width: 385px;
+      margin-right: 50px;
+    }
+    h3 {
+      color: #000;
+      font-family: $main-font;
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-bottom: 31px;
+    }
+    p {
+      color: #000;
+      font-family: $main-font;
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 39px;
+    }
+    article {
+      max-width: 532px;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
