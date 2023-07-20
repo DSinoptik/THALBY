@@ -7,7 +7,10 @@
   flex-direction: column-reverse;
   align-items: center;
   padding-top: 70px;
-  /* position: relative; */
+}
+
+.section1_container article {
+  padding-left: 50px;
 }
 
 #logotype {
@@ -39,6 +42,10 @@
   margin-right: 0;
 }
 
+.footer_container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
 
 }
 
@@ -47,11 +54,3 @@
 
 
 
-
-
-
-
-
-/* @media only screen and (max-width: 428px) {
-
-} */
