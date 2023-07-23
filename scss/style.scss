@@ -1,3 +1,5 @@
+$body-bg: #ffffff;
+
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +10,7 @@ body {
   background-color: $body-bg;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 @import "header.scss";
 @import "body.scss";
 @import "footer.scss";
+
