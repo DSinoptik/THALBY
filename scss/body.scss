@@ -20,9 +20,6 @@ $grey-bg: #f0efeb;
   padding-top: 90px;
   padding-right: 73px;
   max-width: 532px;
-  h1 {
-    padding-bottom: 42px;
-  }
   p {
     color: #000;
     font-family: $main-font;
@@ -31,6 +28,15 @@ $grey-bg: #f0efeb;
     font-weight: 400;
     line-height: normal;
     padding-bottom: 26px;
+  }
+  h1 {
+    padding-bottom: 42px;
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
   }
 }
 
@@ -44,6 +50,10 @@ $grey-bg: #f0efeb;
   border: 1px solid #000;
   background: #000;
   padding: 7px 23px 9px 23px;
+  margin-bottom: 90px;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .section1_img img {
